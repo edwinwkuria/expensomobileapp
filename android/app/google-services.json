@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "550592283446",
+    "firebase_url": "https://expenso-efc67-default-rtdb.firebaseio.com",
+    "project_id": "expenso-efc67",
+    "storage_bucket": "expenso-efc67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550592283446:android:da126b339c9473374a6997",
+        "android_client_info": {
+          "package_name": "com.expenso.expenso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBz1Uh-TuY_FMvHUs6nOikb5nH1qZNhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
